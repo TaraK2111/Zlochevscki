@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+    
+width: 100%;
+text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+img {
+    width: 350px;
+    height: 250px;
+    margin: 30px;
+}
+p {
+    text-align: center;
+}
+.catalog{
+display: flex;
+width: 1000px;
+height:400px;
+margin-bottom: 50px;
+
+}
+.first{
+    border: 1px solid;
+   width:  500px;
+
+}
+
+
+.q1{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.w2{
+    text-align: left;
+   
+}
+.e3{
+    display: flex;
+}
+p{
+    text-align: center;
+}
+.r4{
+    width: 500px;
+}
+
+.y6{
+    display: flex;
+   
+}
+
+.t5{
+    display: flex;
+}
+
+.o9{
+    text-align: center;
+}
+
+.l93{
+text-align: center;
+}
+
+.i1{
+    text-align: center;
+}
+
+footer{
+ background-color: blue;
+ width: 1200px;
+ height: 144px;
+ color: white;
+ display: flex;
+ margin: auto;
+}
+
+.img9{
+   float: right;
+    width: 100px;
+    height: 100px;
+}
+.img8{
+    width: 100px;
+    height: 100px;
+}
+ /* Додайте стилі за бажанням */
+ .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-primary {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.button-secondary {
+    background-color: #2ecc71;
+    color: #fff;
+}
